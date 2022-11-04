@@ -1,0 +1,13 @@
+a{
+    text-align:center;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+   
+}
+ul li{
+    margin: 1em;
+}
